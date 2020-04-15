@@ -1,4 +1,4 @@
 package homework5.test;
 
-public class LoginTest {
+public class LoginTest extends AbstractTestBase {
 }
